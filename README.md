@@ -1,6 +1,6 @@
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+ A multimodal QA web app that allows users to upload images and ask questions about them using vision-capable AI models.
 
-Follow these steps:
+Follow these steps to run this app:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
@@ -28,7 +28,7 @@ npm run dev
 <img width="643" alt="get_response" src="https://github.com/user-attachments/assets/9d8897de-297e-46c6-8fda-06f2979bc7fb" />
 
 
-## I used Gemini 2.0 model
+### I used Gemini 2.0 model
 
 ## Sample Outputs
 1. <img width="632" alt="image" src="https://github.com/user-attachments/assets/4e3031df-7015-412c-8922-3ca128f1af20" />
