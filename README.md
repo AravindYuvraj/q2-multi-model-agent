@@ -14,13 +14,6 @@ npm i
 npm run dev
 ```
 
+<img width="939" alt="Screenshot 2025-06-26 140307" src="https://github.com/user-attachments/assets/e3d62875-30e7-4d31-959d-539fb7d49d4d" />
+<img width="939" alt="Screenshot 2025-06-26 140307" src="https://github.com/user-attachments/assets/e3d62875-30e7-4d31-959d-539fb7d49d4d" />
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
